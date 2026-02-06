@@ -1,11 +1,23 @@
 site_name: Tiaki News
 site_url: https://tiaki.pages.dev
 
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+
 theme:
   name: material
 
   palette:
-    scheme: dark
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    accent: blue
+
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
     accent: blue
 
   font:

@@ -1,0 +1,88 @@
+
+
+
+:root {
+  --glass-radius: 18px;
+  --glass-border-light: rgba(0, 0, 0, 0.15);
+  --glass-border-light-hover: rgba(0, 0, 0, 0.45);
+  --glass-bg-light: rgba(255, 255, 255, 0.08);
+  --glass-bg-light-hover: rgba(255, 255, 255, 0.15);
+  --glass-shadow-light: 0 14px 32px rgba(0, 0, 0, 0.35);
+
+  --glass-border-dark: rgba(255, 255, 255, 0.18);
+  --glass-border-dark-hover: rgba(255, 255, 255, 0.4);
+  --glass-bg-dark: rgba(255, 255, 255, 0.05);
+  --glass-bg-dark-hover: rgba(255, 255, 255, 0.1);
+  --glass-shadow-dark: 0 14px 36px rgba(0, 0, 0, 0.6);
+}
+
+
+
+
+.md-content img,
+.md-typeset details {
+  border-radius: var(--glass-radius);
+  border: 3px solid var(--glass-border-light);
+  background: var(--glass-bg-light);
+  backdrop-filter: blur(6px);
+  transition:
+    border-color 0.25s ease,
+    box-shadow 0.25s ease,
+    transform 0.25s ease,
+    background-color 0.25s ease;
+}
+
+
+
+
+.md-content img {
+  padding: 2px;
+}
+
+.md-content img:hover {
+  border-color: var(--glass-border-light-hover);
+  background: var(--glass-bg-light-hover);
+  box-shadow: var(--glass-shadow-light);
+  transform: translateY(-2px);
+}
+
+.md-content a img {
+  cursor: pointer;
+}
+
+
+
+.md-typeset details {
+  box-shadow: none;
+}
+
+.md-typeset details[open] {
+  border-color: var(--glass-border-light-hover);
+  background: var(--glass-bg-light-hover);
+  box-shadow: var(--glass-shadow-light);
+}
+
+.md-typeset details summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.8rem 1rem;
+}
+
+
+.md-typeset summary::before {
+  display: none;
+}
+
+
+[data-md-color-scheme="slate"] .md-content img,
+[data-md-color-scheme="slate"] .md-typeset details {
+  border-color: var(--glass-border-dark);
+  background: var(--glass-bg-dark);
+}
+
+[data-md-color-scheme="slate"] .md-content img:hover,
+[data-md-color-scheme="slate"] .md-typeset details[open] {
+  border-color: var(--glass-border-dark-hover);
+  background: var(--glass-bg-dark-hover);
+  box-shadow: var(--glass-shadow-dark);
+}
