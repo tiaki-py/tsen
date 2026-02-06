@@ -25,11 +25,7 @@ theme:
     navigation.top
     toc.follow
 
-plugins:
- social:
-  cards_layout_dir: layouts
-  cards_layout: custom
-  debug: true   
+
 
 
 
