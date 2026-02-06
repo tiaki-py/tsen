@@ -1,0 +1,24 @@
+/* Global image styling */
+.md-content img {
+  border-radius: 18px;
+  border: 3px solid rgba(0, 0, 0, 0.15);
+  padding: 2px;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(6px);
+  transition:
+    border-color 0.25s ease,
+    box-shadow 0.25s ease,
+    transform 0.25s ease,
+    background-color 0.25s ease;
+}
+
+/* Hover effect */
+.md-content img:hover {
+  border-color: rgba(0, 0, 0, 0.45);
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 14px 32px rgba(0, 0, 0, 0.35);
+  transform: translateY(-2px);
+}
+.md-content a img {
+  cursor: pointer;
+}

@@ -1,34 +1,28 @@
 site_name: Tiaki News
 site_url: https://tiaki.pages.dev
 
-
 theme:
   name: material
 
   palette:
-    scheme: default
+    scheme: dark
     accent: blue
 
   font:
     text: Ubuntu
 
   features:
-  # nav features
-    navigation.instant
-    navigation.instant.progress
-    navigation.tabs
-    navigation.tabs.sticky
-    navigation.sections
-    navigation.path
-    navigation.prune
-    navigation.indexes
-    navigation.top
-    toc.follow
+    # nav features
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
 
-
-
-
-
-
-
-
+extra_css:
+  - assets/stylesheets/extra.css

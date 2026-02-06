@@ -3,7 +3,7 @@ Human-written articles on various socioeconomic topics.
 
 ***
 
-[![alt text](../assets/articles/greece/thumbnail.jpg)](/docs/greeces-problem/index.md)
+[<img src="assets/articles/greece/thumbnail.jpg" width="400" >](Greece's%20Population%20Problem/index.md)
 
 
 
