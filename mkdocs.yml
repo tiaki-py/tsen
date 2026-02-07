@@ -27,8 +27,6 @@ theme:
     # nav features
     - navigation.instant
     - navigation.instant.progress
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.path
     - navigation.prune

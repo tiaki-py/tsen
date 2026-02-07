@@ -1,5 +1,8 @@
-
-Human-written articles on various socioeconomic topics. 
+---
+hide:
+  - toc
+  - navigation
+---
 
 ***
 
