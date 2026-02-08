@@ -86,7 +86,7 @@
   background: var(--glass-bg-dark-hover);
   box-shadow: var(--glass-shadow-dark);
 }
-.md-typeset h2#bibliography {
+.md-typeset h2#works-cited {
   position: absolute;
   left: -9999px;
 }

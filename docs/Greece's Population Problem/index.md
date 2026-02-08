@@ -7,7 +7,7 @@ Author: Terrance Schotsman
 # Greece's Population Problem
 ***
 
-[<img src="../assets/articles/greece/greece-aging-population.jpg" >](https://www.ekathimerini.com/economy/1266242/greece-bracing-for-demographic-shift-as-aging-accelerates/)
+![Image from ekathimeriki.gr](../assets/articles/greece/greece-aging-population.jpg)
 <br>
 
 ## Introduction
@@ -28,7 +28,7 @@ The Maastricht Treaty was a key turning point in the "European Communities" that
 -  Created a framework through which non-member states could apply, including a restriction that *the applying state must have a debt to GDP ratio below 60%* at time of applying.
 Greece did not meet this requirement, so the government changed the figures shown in the fiscal statements of the years prior. Then, right after recovery from the financial crisis, the Syrian Civil War broke out, and millions of refugees fleeing the country, Greece's position as relatively nearby meant that it received many of them. All these sudden changes combined with the government's frequent overspending meant that almost any administration, no matter how good, would struggle to make the right decisions in this environment.
 
-## Why Greek Seniors are living longer
+## Why Greek seniors are living longer
 Greece currently has an average life expectancy of 82 years, putting it on par with others like Canada, the Netherlands, and most of Scandinavia. It has achieved these figures through excessive spending on the medical industry, which is part of why its debt is so incredibly large. Another factor in the longevity of the Greek population is the Mediterranean lifestyle and cuisine, which focuses on vegetables and grilled meats. The cardiovascular effects of frequently eating meat have been mostly negated in recent years by frequent preventative screenings reaching 78% of citizens at risk. The island of Ikaria is an example of this; it is less open to tourists or wealthy than most of Greece, and it has an older population than mainland Greece as well, but people on the island live 8-10 years longer on average, because of the traditional lifestyle. Afternoon naps, the consumption of herbal tea, and collective social activities are core aspects of Ikarian life. These qualities persist throughout Greece and the Mediterranean countries, but have receded due to increased influence from modern Western ideologies.
 
 ## Conclusion
