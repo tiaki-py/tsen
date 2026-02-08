@@ -38,7 +38,7 @@ Despite the many problems Greece is facing today, it is unlikely much will come 
 ![View of Sidari, Corfu, Greece.](../assets/articles/greece/end-img.jpg)
 
 <span id="bibliography"></span>
-## Bibliography
+## Works Cited
 ???- note "View Works Cited"
     “- YouTube.” Youtu.Be, youtu.be/U205Njf-MC8?si=2uD9FoIS-vonRxvr. Accessed 6 Feb. 2026.
 
