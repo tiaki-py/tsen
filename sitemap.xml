@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tiaki.pages.dev/</loc>
-         <lastmod>2026-02-08</lastmod>
+         <lastmod>2026-02-24</lastmod>
     </url>
     <url>
-         <loc>https://tiaki.pages.dev/Greece%27s%20Population%20Problem/</loc>
-         <lastmod>2026-02-08</lastmod>
+         <loc>https://tiaki.pages.dev/greece/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://tiaki.pages.dev/manaus/</loc>
+         <lastmod>2026-02-24</lastmod>
+    </url>
+    <url>
+         <loc>https://tiaki.pages.dev/rwanda/</loc>
+         <lastmod>2026-02-24</lastmod>
     </url>
 </urlset>
