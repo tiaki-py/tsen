@@ -34,5 +34,13 @@ theme:
     - navigation.top
     - toc.follow
 
+nav:
+  - Home: index.md
+  - Articles:
+      - Greece's Population Problem: greece/index.md
+      - Manaus and its Environment: manaus/index.md
+      - Paul Kagame's Rwanda: rwanda/index.md
+
+
 extra_css:
   - assets/stylesheets/extra.css
